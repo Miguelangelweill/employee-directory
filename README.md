@@ -25,49 +25,39 @@ This is a employee directory app where you can keep track of all of the emplyees
 
   ## Usage
 
-- This application uses the Axios npm package to be able to work with the "randomuser.me" API and giving it a limit of only 150 employees. This Api call is only requested upon the component been moutned , there for the rest of the application will load and the api
-- 
+- This application uses the Axios npm package to be able to work with the "randomuser.me" API and giving it a limit of only 150 employees to be returned. This Api call is only requested upon the component been moutned , there for the rest of the application will load and work independently from the api call.
+- The Body component keeps track of the current state in which the application is in, allowing for the application to react whenever something changes.
 
  ```
-├── config
-│   ├── connection.js
-│   └── orm.js
+│── static
+│   ├── css
+│   │   ├── 2.1a02f21c.chunk.css
+│   │   ├── 2.1a02f21c.chunk.css.map
+│   │   ├── main.a953644e.chunk.css
+│   │   └── main.a953644e.chunk.css.map
+│   │ 
+│   └──js
+│       ├── 2.2063eeb1.chunk.js
+│       ├── 2.2063eeb1.chunk.js.LICENSE.txt
+│       ├── 2.2063eeb1.chunk.js.map
+│       ├── main.0470f893.chunk.js
+│       ├── main.0470f893.chunk.js.map
+│       ├── runtime-main.a46fae82.js
+│       └── runtime-main.a46fae82.js.map
 │ 
-├── controllers
-│   └── burgersController.js
+├── asset-manifest.json
 │
-├── db
-│   ├── schema.sql
-│   └── seeds.sql
+├── favicon.ico
 │
-├── models
-│   └── burger.js
-│ 
-├── node_modules
-│ 
-│── public
-│   └── assets
-│       ├── css
-│       │   └── style.css
-│       ├──js
-│       │   └── burger.js
-│       └── img
-│           └── appImage.png
+├── index.html  
 │
-├──views
-│    ├── index.handlebars
-│    ├── layouts
-│    │    └── main.handlebars
-│    └── partials
-│         └── burger-block.handlebars
+├──logo192.png
 │
-├── .gitignore
+├──logo512.png
 │
-├── package-lock.json
+├──manifest.json
 │
-├── package.json   
-│
-├── server.js
+├──robots.txt
 │
 └──README.md
 
