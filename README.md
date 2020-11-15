@@ -69,7 +69,8 @@ This is a employee directory app where you can keep track of all of the emplyees
 
   ## Test
 
-  ![Image Of Project](./public/assets/images/burgerEater.gif)
+![App](https://user-images.githubusercontent.com/64563531/99191202-2f975c80-2739-11eb-82df-2dab6c25353c.gif)
+
 
   ## Git hub user name
 
