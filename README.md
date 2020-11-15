@@ -28,6 +28,7 @@ This is a employee directory app where you can keep track of all of the emplyees
 - This application uses the Axios npm package to be able to work with the "randomuser.me" API and giving it a limit of only 150 employees to be returned. This Api call is only requested upon the component been moutned , there for the rest of the application will load and work independently from the api call.
 - The Body component keeps track of the current state in which the application is in, allowing for the application to react whenever something changes.
 
+ ## Directory 
  ```
 │── static
 │   ├── css
