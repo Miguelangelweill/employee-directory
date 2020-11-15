@@ -68,6 +68,7 @@ This is a employee directory app where you can keep track of all of the emplyees
   Miguelangel Weill
 
   ## Test
+- To test the application you can go to this url "https://miguelangelweill.github.io/employee-directory/".
 
 ![App](https://user-images.githubusercontent.com/64563531/99191202-2f975c80-2739-11eb-82df-2dab6c25353c.gif)
 
