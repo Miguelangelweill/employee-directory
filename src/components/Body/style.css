@@ -1,0 +1,40 @@
+#name {
+    border-left: 1px solid black;
+}
+
+#contact {
+    border-left: 1px solid black;
+}
+
+#location {
+    border-left: 1px solid black;
+}
+
+.nameFont {
+    font-size: 2vw;
+}
+
+.phoneFont {
+    font-size: 2vw;
+}
+
+.emailFont {
+    font-size: 2vw;
+}
+
+.locationFont {
+    font-size: 2vw;
+}
+
+.email {
+    font-size: 2vw;
+}
+
+.phone {
+    font-size: 2vw;
+}
+
+#form {
+    margin: auto;
+    width: 50%;
+}
