@@ -9,7 +9,7 @@ This is a employee directory app where you can keep track of all of the emplyees
 
 ## Main Window
 
-  ![Image Of Project](./public/assets/images/appImage.png)
+  ![App](https://user-images.githubusercontent.com/64563531/99190071-7fbef080-2732-11eb-9891-dc76a03bd625.png)
 
 
 ## Table of contents
